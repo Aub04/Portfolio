@@ -3,13 +3,13 @@
 Portfolio personnel d'Aubin Hérault, Ingénieur IA & Data.
 Développé avec React, Vite et Tailwind CSS.
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 - Design responsive & moderne (Glassmorphism).
 - Animations fluides avec Framer Motion.
 - Structure de données modulaire (`src/data.jsx`).
 - Prêt pour le déploiement GitHub Pages.
 
-## 🛠️ Installation & Lancement
+## Installation & Lancement
 
 1. **Installation** :
    ```bash
@@ -25,14 +25,14 @@ Développé avec React, Vite et Tailwind CSS.
    npm run deploy
    ```
 
-## 📝 Mise à jour des données
+## Mise à jour des données
 
 Modifiez simplement le fichier `src/data.jsx` pour mettre à jour :
 - Vos informations personnelles.
 - Vos projets (descriptions, liens, images).
 - Vos expériences et compétences.
 
-## 📄 Structure du projet
+## Structure du projet
 
 - `src/components/` : Composants UI (Hero, Projects, Skills, etc.).
 - `src/data.jsx` : Source pour le contenu.
