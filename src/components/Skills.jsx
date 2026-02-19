@@ -5,14 +5,17 @@ const Skills = () => {
     return (
         <section id="skills" className="py-20 bg-darker relative overflow-hidden">
             <div className="container mx-auto px-6 relative z-10">
-                <motion.h2
-                    initial={{ opacity: 0, scale: 0.9 }}
-                    whileInView={{ opacity: 1, scale: 1 }}
-                    className="text-4xl font-bold text-center text-white mb-16 relative inline-block left-1/2 -translate-x-1/2"
-                >
-                    <span className="relative z-10">Compétences Techniques</span>
-                    <span className="absolute bottom-1 left-0 w-full h-3 bg-gradient-to-r from-primary to-secondary -z-10 opacity-20 transform -skew-x-12"></span>
-                </motion.h2>
+                <div className="text-center mb-16">
+                    <motion.h2
+                        initial={{ opacity: 0, y: 20 }}
+                        whileInView={{ opacity: 1, y: 0 }}
+                        viewport={{ once: true }}
+                        className="text-3xl md:text-4xl font-bold text-white relative inline-block"
+                    >
+                        <span className="relative z-10">Compétences Techniques</span>
+                        <span className="absolute bottom-2 left-0 w-full h-3 bg-gradient-to-r from-primary to-secondary -z-10 opacity-20 transform -skew-x-12"></span>
+                    </motion.h2>
+                </div>
 
                 <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
                     {skills.map((skillGroup, index) => (

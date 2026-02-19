@@ -63,7 +63,7 @@ const About = () => {
                         </div>
                         <h3 className="text-xl font-bold text-white mb-4">Pourquoi l'Alternance ?</h3>
                         <p className="text-slate-400 mb-6">
-                            Après 4 ans de formation théorique et pratique à l'ESAIP, je cherche à concrétiser mes compétences sur le terrain.
+                            Après 4 ans de formation théorique et pratique à l'ESAIP, je cherche à concrétiser et développer mes compétences sur le terrain.
                             Mon expérience agricole m'a appris la valeur du travail, l'autonomie et la résilience, des qualités que j'applique aujourd'hui dans mes projets d'ingénierie.
                         </p>
                         <div className="flex flex-wrap gap-2">

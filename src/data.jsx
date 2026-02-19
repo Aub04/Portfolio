@@ -11,7 +11,7 @@ import metaBotImg from './assets/Projet_MetaBot.png';
 export const personalData = {
     name: "Aubin Hérault",
     title: "Ingénieur IA & Data",
-    bio: "Étudiant en 4ème année d'école d'ingénieur à l'ESAIP (Angers), spécialisé en Intelligence Artificielle et Réseaux. Passionné par la Data Science, l'automatisation et le développement Full Stack. Actuellement à la recherche d'une alternance pour 2025-2026.",
+    bio: "Étudiant en 4ème année d'école d'ingénieur à l'ESAIP (Angers), spécialisé en Intelligence Artificielle et Réseaux. Passionné par la Data Science, l'automatisation et le développement Full Stack. Actuellement à la recherche d'une alternance pour 2026-2027.",
     location: "Angers, France",
     email: "aubinherault64@gmail.com",
     phone: "+33 7 67 86 04 03",
@@ -74,7 +74,7 @@ export const experiences = [
     {
         role: "Ouvrier Agricole (Saisonnier)",
         company: "EARL Véché",
-        location: "Argenton-l’Église",
+        location: "Argentonnay",
         period: "Étés 2019-2024",
         description: "Expérience formatrice exigeant endurance, responsabilité et polyvalence.",
         details: [
