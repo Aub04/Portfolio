@@ -38,7 +38,7 @@ const Contact = () => {
                 >
                     <h2 className="text-4xl font-bold text-white mb-6">Prêt à collaborer ?</h2>
                     <p className="text-slate-400 mb-8 max-w-md text-lg">
-                        Actuellement à la recherche d'une <span className="text-primary font-medium">alternance pour 2025-2026</span>.
+                        Actuellement à la recherche d'une <span className="text-primary font-medium">alternance pour 2026-2027</span>.
                         Disponible pour échanger sur l'alternance, l'IA, ou mon futur voyage au Chili !
                     </p>
 

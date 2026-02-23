@@ -106,9 +106,9 @@ export const education = [
     },
     {
         school: "Óbuda University (Budapest)",
-        degree: "Semestre Erasmus - Computer Engineering",
+        degree: "Semestre Erasmus - Data Science",
         period: "Jan 2025 - Juin 2025",
-        description: "Semestre international axé sur le Deep Learning, Computer Vision et le Management de projet."
+        description: "Semestre international axé sur la data, le développement WEB et le Management de projet."
     },
     {
         school: "Universidad de Santiago (Chili)",
